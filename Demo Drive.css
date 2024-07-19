@@ -1,0 +1,46 @@
+.Tesla {
+    text-align: center;
+  }
+  
+  * {
+    color: black;
+    font-family: Tahoma;
+    margin: 0;
+  }
+
+  .placeholder{
+    height: 41px;
+  }
+  
+  header {
+    border: red solid 2px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+  }
+  
+  .img {
+    margin-top: 2px;
+  }
+  
+  .Picture{
+    width: 1050px;
+    text-align: center;
+  }
+
+  .pic{
+    background-image: url("https://cdn.teslanorth.com/wp-content/uploads/2024/02/tesla-hero-2024.jpg");
+    background-repeat: no-repeat;
+    height: 455px;
+    background-size: 100%;
+    background-position: center;
+  }
+
+  button{
+    background-color: white;
+    border: black solid 2px;
+    Width: 150px;
+   border-radius: 2px;
+   font-family: sans-serif;
+   }

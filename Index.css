@@ -1,0 +1,101 @@
+.Tesla {
+    text-align: center;
+  }
+  
+  * {
+    color: black;
+    font-family: Tahoma;
+    margin: 0;
+  }
+
+  .placeholder{
+    height: 25px;
+  }
+  
+  header {
+    border: red solid 2px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+  }
+  
+  .img {
+    margin-top: 2px;
+  }
+  
+  .S {
+    background-image: url("https://www.usnews.com/object/image/0000018d-a43a-dcce-adfd-b53ebb720000/models-70.jpg?update-time=1707857328487&size=responsive640");
+    background-repeat: no-repeat;
+    height: 569px;
+    background-size: 100%;
+    background-position: center;
+  }
+  
+  .X {
+    background-image: url("https://www.usnews.com/object/image/0000018d-fbbd-d23b-a7bf-fbbf5b7c0000/modelx-77.jpg?update-time=1709325506757&size=responsive640");
+    background-repeat: no-repeat;
+    height: 569px;
+    background-size: 100%;
+    background-position: center;
+  }
+  
+  .E {
+    background-image: url("https://ev-database.org/img/auto/Tesla_Model_3_2021/Tesla_Model_3_2021-01.jpg");
+    background-repeat: no-repeat;
+    height: 569px;
+    background-size: 100%;
+    background-position: center;
+  }
+  
+  .Y {
+    background-image: url("https://www.zdnet.com/a/img/resize/be0ce4f9afc70337e6d0c51e18733f07e13151c5/2022/09/07/a43b4f6f-c082-4183-a8b7-5980cce18b60/screen-shot-2022-09-07-at-11-14-15-am.png?auto=webp&width=1280");
+    background-repeat: no-repeat;
+    height: 569px;
+    background-size: 100%;
+    background-position: center;
+  }
+  
+  .Cy {
+    background-image: url("https://www.slashgear.com/img/gallery/the-coolest-features-of-the-tesla-cybertruck-interior/intro-1683052057.webp");
+    background-repeat: no-repeat;
+    height: 569px;
+    background-size: 100%;
+    background-position: center;
+  }
+
+  .Demo {
+    background-image: url("https://www.teslarati.com/wp-content/uploads/2024/03/tesla-full-lineup-all-cars.jpg");
+    background-repeat: no-repeat;
+    height: 569px;
+    background-size: 125%;
+    background-position: center;
+  }
+
+  .distance {
+    padding-bottom: 360px;
+  }
+
+  .space{
+    padding-bottom: 375px;
+  }
+
+  .footer{
+    text-align: center;
+    color: silver;
+    background-image: url("https://colourlex.com/wp-content/uploads/2021/02/vine-black-painted-swatch-300x300.jpg.webp");
+    height: 300px;
+
+  }
+
+  .side-by-side {
+    display: inline-block;
+    margin-right: 100px;
+  }
+
+  button{
+   background-color: white;
+   border: white solid 2px;
+   Width: 150px;
+   border-radius: 2px;
+  }
